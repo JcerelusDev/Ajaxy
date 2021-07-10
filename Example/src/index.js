@@ -1,4 +1,4 @@
-var ajax =  getfile("src/00000info.json","text");
+var ajax =  ajaxy("src/info.json","text");
 
 function output(data){
 
