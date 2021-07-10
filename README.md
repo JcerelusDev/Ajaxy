@@ -3,6 +3,10 @@ Ajax has never been easier to work with.
 
 This is the cdn link :
 
+<pre><code>
+&lt;script src="https://cdn.jsdelivr.net/gh/JcerelusDev/Ajaxy/Js/ajaxy.min.js"&gt;&lt;/script&gt;
+</code></pre>
+
 
 
 
