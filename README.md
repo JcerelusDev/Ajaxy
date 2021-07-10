@@ -1,3 +1,2 @@
-##### AjaxyJs is a lightweight ajax library,
-design to make ajax call faster in a few lines of code
-Than usual.
+##### Ajaxy Js library 
+Ajax has never been easier to work with.
