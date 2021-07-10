@@ -1,0 +1,42 @@
+{
+
+"person" :[
+{
+"name": "john",
+"age" : 34
+},
+
+{
+"name":"paul",
+"age" : 12
+},
+
+{
+"name" : "jessica",
+"age" : 22
+
+}
+],
+
+"cars":[
+{
+"brand" :"BMW",
+"year":1995,
+"speed":"100kmh"
+},
+
+{
+"brand" :"Toyota",
+"year":2013,
+"speed":"210kmh"
+},
+
+{
+"brand" :"Jeep",
+"year":2007,
+"speed":"160kmh"
+}
+
+]
+
+}
