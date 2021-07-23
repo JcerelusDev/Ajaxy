@@ -1,1 +1,1 @@
-var self;function Ajaxy(e,t){xhr=new XMLHttpRequest,xhr.open("get",e),xhr.responseType=t,xhr.send(),xhr.onreadystatechange=function(){4==xhr.readyState&&(self.output(xhr.response),"text/xml"==t&&(self.output(xhr.response)))},self=this}
+var self,Ajaxy=function(e,t,s){this.method=e;var n=new XMLHttpRequest;n.open(this.method,t),n.responseType=s,n.send(),n.onreadystatechange=function(){4==n.readyState&&(self.output(n.response),"text/xml"==s&&self.output(n.response))},self=this};
