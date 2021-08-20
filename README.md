@@ -13,4 +13,5 @@ This is the CDN link :
 
 
 This is the documentation link :
- href="https://github.com/JcerelusDev/Ajaxy/wiki">Docs</a>
+
+ <a href="https://github.com/JcerelusDev/Ajaxy/wiki">Docs</a>
